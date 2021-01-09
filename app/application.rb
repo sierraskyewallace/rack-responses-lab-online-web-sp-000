@@ -1,1 +1,1 @@
-class Application < 
+class Application 
